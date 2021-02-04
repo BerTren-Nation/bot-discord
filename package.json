@@ -1,0 +1,24 @@
+{
+  "name": "bot-discord",
+  "version": "0.0.1",
+  "description": "Simple NSFW Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "kaguya-bot",
+    "discord-bot",
+    "discord",
+    "whatsapp",
+    "bot"
+  ],
+  "author": "BerTren-Nation",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.1",
+    "mathjs": "^8.1.0"
+  },
+  "devDependencies": {}
+}
